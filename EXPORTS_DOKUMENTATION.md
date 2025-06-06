@@ -919,8 +919,8 @@ end
 
 For yderligere support eller funktionsanmodninger, se venligst hovedscript dokumentationen eller kontakt udviklingsteamet.
 
-**Discord:** [Din Discord Server]
-**GitHub:** [Dit GitHub Repository]
+**Discord:** [[Discord Server](https://discord.gg/5CRTp6sz62)]
+**GitHub:** [[GitHub Repository](https://github.com/Ebou/Zaki-Bossmenu-Docs/edit/main/EXPORTS_DOKUMENTATION.md)]
 
 ---
 
